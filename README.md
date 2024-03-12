@@ -55,8 +55,12 @@ Tech Stack:
 File structure:
 
 templates/
-| ├── index.html |
-├── about.html
-├── mentors.html
-├── register.html
-└── login.html
+    |-- .bowerrc
+    |-- .jshintrc
+    |-- .jshintrc2
+    |-- Gruntfile.js
+    |-- README.md
+    |-- bower.json
+    |-- karma.conf.js
+    |-- package.json
+    |-- app
