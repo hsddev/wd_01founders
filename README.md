@@ -29,18 +29,18 @@ Logo:
 -   https://favicon.io/ was used to create the favicon
 
 Wireframes:
-
+|             <b>Home page wireframe</b>              |
 | ![Home page wireframe](assets/readme_images/home-page.png) |
 | :-------------------------------------------------: |
-|             <b>Home page wireframe</b>              |
 
+|               <b>About us page wireframe</b>               |
 | ![femtoring about wireframe](assets/readme_images/about-page.png) |
 | :--------------------------------------------------------: |
-|               <b>About us page wireframe</b>               |
 
+|                 <b>Mentors page wireframe</b>                  |
 | ![femtoring mentors wireframe](assets/readme_images/mentors-page.png) |
 | :------------------------------------------------------------: |
-|                 <b>Mentors page wireframe</b>                  |
+
 
 Canvas:
 
