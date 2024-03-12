@@ -65,6 +65,8 @@ pexels.com was used to source copyright free images for the website gallery and 
     |── index.html
     |── about.html
     |── mentors.html
+    |── profile.html
+    |── contact.html
     |── signup.html
     └── login.html
 ```
