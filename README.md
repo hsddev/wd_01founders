@@ -53,7 +53,7 @@ Tech Stack:
 ​Technologies Used: HTML, CSS, JavaScript, jQuery, Bootstrap, Python, Flask, GitHub, Git, Bash, Go
 
 File structure:
-
+```
 templates/
     |-- .bowerrc
     |-- .jshintrc
@@ -64,3 +64,5 @@ templates/
     |-- karma.conf.js
     |-- package.json
     |-- app
+
+```
