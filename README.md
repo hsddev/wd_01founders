@@ -9,7 +9,7 @@ The link for the deployed site can be found here: https://femtoring.herokuapp.co
 # Design
 
 Color Scheme:
-![alt text](assets/readme_images/colour-palette.png)
+![alt text](readme_images/colour-palette.png)
 
 -   #F67280
 -   #F8B195
@@ -32,19 +32,19 @@ pexels.com was used to source copyright free images for the website gallery and 
 
 # Wireframes:
 
-| ![Home page wireframe](assets/readme_images/home-page.png) |
+| ![Home page wireframe](readme_images/home-page.png) |
 | :--------------------------------------------------------: |
 |                 <b>Home page wireframe</b>                 |
 
  <br />
 
-| ![femtoring about wireframe](assets/readme_images/about-page.png) |
+| ![femtoring about wireframe](readme_images/about-page.png) |
 | :---------------------------------------------------------------: |
 |                  <b>About us page wireframe</b>                   |
 
  <br />
 
-| ![femtoring mentors wireframe](assets/readme_images/mentors-page.png) |
+| ![femtoring mentors wireframe](readme_images/mentors-page.png) |
 | :-------------------------------------------------------------------: |
 |                     <b>Mentors page wireframe</b>                     |
 
@@ -54,12 +54,8 @@ pexels.com was used to source copyright free images for the website gallery and 
 # Technology:
 
 ## Tech Stack:
-<<<<<<< HEAD
 
-​Technologies Used: HTML, CSS, JavaScript, jQuery, Bootstrap, Python, Flask, GitHub, Git, Bash, Go
-=======
 ​Technologies Used: HTML, CSS, JavaScript, jQuery, Bootstrap, GitHub, Git, Bash
->>>>>>> 3cebe73d9f95d29dc8f955c195c5e87307bffd71
 
 # File structure:
 
