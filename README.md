@@ -30,9 +30,10 @@ Logo:
 
 Wireframes: <br />
 
-| ![Home page wireframe](assets/readme_images/home-page.png) |
 | :-------------------------------------------------: |
 |             <b>Home page wireframe</b>              |
+| ![Home page wireframe](assets/readme_images/home-page.png) |
+
 
 |               <b>About us page wireframe</b>               |
 | ![femtoring about wireframe](assets/readme_images/about-page.png) |
