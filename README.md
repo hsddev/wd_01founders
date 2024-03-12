@@ -79,3 +79,6 @@ pexels.com was used to source copyright free images for the website gallery and 
 - Mentor profiles: This is the page where the user can see the individual information on each mentor.
 - Sign-up page: Visitors to the website can sign up as a mentor or a user seeking mentorship.
 - Log-in page: Visitors to the website can log in if they have signed up already.
+- Contact Mentor: Users can choose a mentor and contact them to arrange a meeting.
+
+PS: Users must be logged in before they can contact the mentor.
