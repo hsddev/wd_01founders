@@ -23,7 +23,7 @@ Lato and Roboto were used from Google Fonts​
 
 # Imagery:
 
-pexels.com was used to source copyright free images for the website gallery and tinypng was used to compress file size​.
+https://pexels.com was used to source copyright free images for the website gallery and tinypng was used to compress file size​.
 
 # Logo:
 
@@ -32,23 +32,24 @@ pexels.com was used to source copyright free images for the website gallery and 
 
 # Wireframes:
 
-| ![Home page wireframe](readme_images/home-page.png) |
-| :--------------------------------------------------------: |
-|                 <b>Home page wireframe</b>                 |
+| ![Home page wireframe](readme_images/home-page.png =200x200) |
+| :----------------------------------------------------------: |
+|                  <b>Home page wireframe</b>                  |
 
  <br />
 
 | ![femtoring about wireframe](readme_images/about-page.png) |
-| :---------------------------------------------------------------: |
-|                  <b>About us page wireframe</b>                   |
+| :--------------------------------------------------------: |
+|               <b>About us page wireframe</b>               |
 
  <br />
 
 | ![femtoring mentors wireframe](readme_images/mentors-page.png) |
-| :-------------------------------------------------------------------: |
-|                     <b>Mentors page wireframe</b>                     |
+| :------------------------------------------------------------: |
+|                 <b>Mentors page wireframe</b>                  |
 
  <br />
+
 ## Canvas:
 
 # Technology:
@@ -76,16 +77,17 @@ pexels.com was used to source copyright free images for the website gallery and 
     |── signup.html
     └── login.html
 ```
+
 # Features:
 
-- Navigation bar: This is at the top of every bar. It allows the user to move between pages.
-- Home page: Here you can find information on the website's goals and purpose, as well as links to the rest of the pages.
-- About page: This contains information on the website and the team behind it. There is also information on the history of women in tech and some examples of modern-day women tech leaders.
-- Mentors page: This contains the different profiles for the mentors, the user can click on them and go into each one of them.
-- Mentor profiles: This is the page where the user can see the individual information on each mentor.
-- Sign-up page: Visitors to the website can sign up as a mentor or a user seeking mentorship.
-- Log-in page: Visitors to the website can log in if they have signed up already.
-- Contact Mentor: Users can choose a mentor and contact them to arrange a meeting.
-- 404 Page: if the user navigates to a page that doesn't exist 404 page comes up and presents a link back to home.
-  
+-   Navigation bar: This is at the top of every bar. It allows the user to move between pages.
+-   Home page: Here you can find information on the website's goals and purpose, as well as links to the rest of the pages.
+-   About page: This contains information on the website and the team behind it. There is also information on the history of women in tech and some examples of modern-day women tech leaders.
+-   Mentors page: This contains the different profiles for the mentors, the user can click on them and go into each one of them.
+-   Mentor profiles: This is the page where the user can see the individual information on each mentor.
+-   Sign-up page: Visitors to the website can sign up as a mentor or a user seeking mentorship.
+-   Log-in page: Visitors to the website can log in if they have signed up already.
+-   Contact Mentor: Users can choose a mentor and contact them to arrange a meeting.
+-   404 Page: if the user navigates to a page that doesn't exist 404 page comes up and presents a link back to home.
+
 PS: Users must be logged in before they can contact the mentor.
