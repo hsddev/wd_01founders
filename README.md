@@ -30,15 +30,15 @@ Logo:
 
 Wireframes:
 
-| ![Home page wireframe](assets/images/home-page.png) |
+| ![Home page wireframe](assets/readme_images/home-page.png) |
 | :-------------------------------------------------: |
 |             <b>Home page wireframe</b>              |
 
-| ![femtoring about wireframe](assets/images/about-page.png) |
+| ![femtoring about wireframe](assets/readme_images/about-page.png) |
 | :--------------------------------------------------------: |
 |               <b>About us page wireframe</b>               |
 
-| ![femtoring mentors wireframe](assets/images/mentors-page.png) |
+| ![femtoring mentors wireframe](assets/readme_images/mentors-page.png) |
 | :------------------------------------------------------------: |
 |                 <b>Mentors page wireframe</b>                  |
 
