@@ -54,15 +54,18 @@ Tech Stack:
 
 File structure:
 ```
-templates/
-    |-- .bowerrc
-    |-- .jshintrc
-    |-- .jshintrc2
-    |-- Gruntfile.js
-    |-- README.md
-    |-- bower.json
-    |-- karma.conf.js
-    |-- package.json
-    |-- app
+
+.
+├── static
+│   ├── css
+         └── base.css
+│   ├── images
+│   └── js
+├──templates/
+    |── index.html
+    |── about.html
+    |── mentors.html
+    |── signup.html
+    └── login.html
 
 ```
