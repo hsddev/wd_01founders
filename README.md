@@ -18,9 +18,11 @@ Color Scheme:
 -   #355C7D​
 
 # Typography:
+
 Lato and Roboto were used from Google Fonts​
 
 # Imagery:
+
 pexels.com was used to source copyright free images for the website gallery and tinypng was used to compress file size​.
 
 # Logo:
@@ -30,29 +32,33 @@ pexels.com was used to source copyright free images for the website gallery and 
 
 # Wireframes:
 
-
 | ![Home page wireframe](assets/readme_images/home-page.png) |
-| :-------------------------------------------------: |
-|             <b>Home page wireframe</b>              |
+| :--------------------------------------------------------: |
+|                 <b>Home page wireframe</b>                 |
+
  <br />
 
 | ![femtoring about wireframe](assets/readme_images/about-page.png) |
-| :--------------------------------------------------------: |
-|               <b>About us page wireframe</b>               |
+| :---------------------------------------------------------------: |
+|                  <b>About us page wireframe</b>                   |
+
  <br />
 
 | ![femtoring mentors wireframe](assets/readme_images/mentors-page.png) |
-| :------------------------------------------------------------: |
-|                 <b>Mentors page wireframe</b>                  |
- <br />
-Canvas:
+| :-------------------------------------------------------------------: |
+|                     <b>Mentors page wireframe</b>                     |
 
-#Technology:
+ <br />
+## Canvas:
+
+# Technology:
 
 ## Tech Stack:
+
 ​Technologies Used: HTML, CSS, JavaScript, jQuery, Bootstrap, Python, Flask, GitHub, Git, Bash, Go
 
 # File structure:
+
 ```
 
 .
