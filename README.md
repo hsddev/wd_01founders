@@ -91,5 +91,5 @@ pexels.com was used to source copyright free images for the website gallery and 
 - Log-in page: Visitors to the website can log in if they have signed up already.
 - Contact Mentor: Users can choose a mentor and contact them to arrange a meeting.
 - 404 Page: if the user navigates to a page that doesn't exist 404 page comes up and presents a link back to home.
-- 
+  
 PS: Users must be logged in before they can contact the mentor.
