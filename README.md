@@ -17,18 +17,18 @@ Color Scheme:
 -   #6C5B7B
 -   #355C7D​
 
-Typography:
+# Typography:
 Lato and Roboto were used from Google Fonts​
 
-Imagery:
+# Imagery:
 pexels.com was used to source copyright free images for the website gallery and tinypng was used to compress file size​.
 
-Logo:
+# Logo:
 
 -   Logo icon was created using https://www.freelogodesign.org/
 -   https://favicon.io/ was used to create the favicon
 
-Wireframes:
+# Wireframes:
 
 
 | ![Home page wireframe](assets/readme_images/home-page.png) |
@@ -47,12 +47,12 @@ Wireframes:
  <br />
 Canvas:
 
-Technology:
+#Technology:
 
-Tech Stack:
+## Tech Stack:
 ​Technologies Used: HTML, CSS, JavaScript, jQuery, Bootstrap, Python, Flask, GitHub, Git, Bash, Go
 
-File structure:
+# File structure:
 ```
 
 .
