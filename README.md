@@ -32,7 +32,7 @@ https://pexels.com was used to source copyright free images for the website gall
 
 # Wireframes:
 
-| ![<img src="readme_images/home-page.png" width="200" height="200"/>](readme_images/home-page.png) |
+| ![Home page wireframe](readme_images/home-page.png) { width=20% } |
 | :----------------------------------------------------------: |
 |                  <b>Home page wireframe</b>                  |
 
