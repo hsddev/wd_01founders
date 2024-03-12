@@ -9,7 +9,7 @@ The link for the deployed site can be found here: https://femtoring.herokuapp.co
 # Design
 
 Color Scheme:
-![alt text](assets/images/colour-palette.png)
+![alt text](assets/readme_images/colour-palette.png)
 
 -   #F67280
 -   #F8B195
@@ -28,22 +28,23 @@ Logo:
 -   Logo icon was created using https://www.freelogodesign.org/
 -   https://favicon.io/ was used to create the favicon
 
-Wireframes: <br />
+Wireframes:
 
+
+| ![Home page wireframe](assets/readme_images/home-page.png) |
 | :-------------------------------------------------: |
 |             <b>Home page wireframe</b>              |
-| ![Home page wireframe](assets/readme_images/home-page.png) |
+ <br />
 
-
-|               <b>About us page wireframe</b>               |
 | ![femtoring about wireframe](assets/readme_images/about-page.png) |
 | :--------------------------------------------------------: |
+|               <b>About us page wireframe</b>               |
+ <br />
 
-|                 <b>Mentors page wireframe</b>                  |
 | ![femtoring mentors wireframe](assets/readme_images/mentors-page.png) |
 | :------------------------------------------------------------: |
-
-
+|                 <b>Mentors page wireframe</b>                  |
+ <br />
 Canvas:
 
 Technology:
