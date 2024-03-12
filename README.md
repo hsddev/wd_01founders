@@ -28,7 +28,7 @@ Logo:
 -   Logo icon was created using https://www.freelogodesign.org/
 -   https://favicon.io/ was used to create the favicon
 
-Wireframes:
+Wireframes: <br />
 |             <b>Home page wireframe</b>              |
 | ![Home page wireframe](assets/readme_images/home-page.png) |
 | :-------------------------------------------------: |
