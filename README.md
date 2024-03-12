@@ -45,9 +45,9 @@ pexels.com was used to source copyright free images for the website gallery and 
 | :------------------------------------------------------------: |
 |                 <b>Mentors page wireframe</b>                  |
  <br />
-Canvas:
+## Canvas:
 
-#Technology:
+# Technology:
 
 ## Tech Stack:
 ​Technologies Used: HTML, CSS, JavaScript, jQuery, Bootstrap, Python, Flask, GitHub, Git, Bash, Go
