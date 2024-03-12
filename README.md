@@ -54,8 +54,12 @@ pexels.com was used to source copyright free images for the website gallery and 
 # Technology:
 
 ## Tech Stack:
+<<<<<<< HEAD
 
 ​Technologies Used: HTML, CSS, JavaScript, jQuery, Bootstrap, Python, Flask, GitHub, Git, Bash, Go
+=======
+​Technologies Used: HTML, CSS, JavaScript, jQuery, Bootstrap, GitHub, Git, Bash
+>>>>>>> 3cebe73d9f95d29dc8f955c195c5e87307bffd71
 
 # File structure:
 
