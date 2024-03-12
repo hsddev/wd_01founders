@@ -55,7 +55,7 @@ Tech Stack:
 File structure:
 
 templates/
-├── index.html
+| ├── index.html |
 ├── about.html
 ├── mentors.html
 ├── register.html
