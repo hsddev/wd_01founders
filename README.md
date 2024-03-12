@@ -58,9 +58,10 @@ File structure:
 .
 ├── static
 │   ├── css
-         └── base.css
+│   │    └── base.css
 │   ├── images
 │   └── js
+│        └── base.js
 ├──templates/
     |── index.html
     |── about.html
