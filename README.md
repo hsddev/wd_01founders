@@ -32,9 +32,9 @@ https://pexels.com was used to source copyright free images for the website gall
 
 # Wireframes:
 
-| ![Home page wireframe](readme_images/home-page.png) { width=20% } |
-| :----------------------------------------------------------: |
-|                  <b>Home page wireframe</b>                  |
+| ![Home page wireframe](readme_images/home-page.png) |
+| :-------------------------------------------------: |
+|             <b>Home page wireframe</b>              |
 
  <br />
 
@@ -81,6 +81,8 @@ https://pexels.com was used to source copyright free images for the website gall
 # Features:
 
 -   Navigation bar: This is at the top of every bar. It allows the user to move between pages.
+    ![Home page wireframe](readme_images/home-nav.png)
+
 -   Home page: Here you can find information on the website's goals and purpose, as well as links to the rest of the pages.
 -   About page: This contains information on the website and the team behind it. There is also information on the history of women in tech and some examples of modern-day women tech leaders.
 -   Mentors page: This contains the different profiles for the mentors, the user can click on them and go into each one of them.
