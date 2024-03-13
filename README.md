@@ -97,3 +97,17 @@ https://pexels.com was used to source copyright free images for the website gall
     ![Home page wireframe](readme_images/404.png)
 
 PS: Users must be logged in before they can contact the mentor.
+
+# Task Collaboration
+
+To encourage diverse collaboration and skill-sharing, we've formed mixed-level groups where participants with varying experience levels work together towards a common goal. Here are the roles within each group:
+
+## Group Alpha: Innovators' Collective
+
+This group combines participants with different skill levels to foster innovation and mentorship. Each member brings unique perspectives and expertise to the table, creating a dynamic environment for collaboration. Roles within the group include:
+
+-   **Visionary Designers**: Participants with artistic flair and creativity who will design the initial concept of the website using canvas tools. They will lay the visual foundation for the project.
+-   **Technical Builders**: Skilled individuals proficient in HTML, CSS, and basic JavaScript who will implement the designs created by Visionary Designers. They will focus on building static web pages and ensuring cross-device compatibility.
+-   **Architects of Functionality**: Experienced developers with full-stack knowledge who will add dynamic features, such as user authentication and backend logic, to make the website interactive and engaging. They will integrate these features seamlessly into the project.
+
+Participants within Group Alpha will collaborate closely, leveraging their respective strengths to create a cohesive and impactful website. Together, they will celebrate diversity and empower each other to achieve excellence.
