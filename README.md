@@ -72,7 +72,6 @@ https://pexels.com was used to source copyright free images for the website gall
     |── index.html
     |── about.html
     |── mentors.html
-    |── profile.html
     |── contact.html
     |── signup.html
     └── login.html
@@ -88,8 +87,6 @@ https://pexels.com was used to source copyright free images for the website gall
     ![Home page wireframe](readme_images/aboutpage.png)
 -   Mentors page: This contains the different profiles for the mentors, the user can click on them and go into each one of them.
     ![Home page wireframe](readme_images/mentors.png)
--   Mentor profiles: This is the page where the user can see the individual information on each mentor.
-    ![Home page wireframe](readme_images/mentor-profile.png)
 -   Sign-up page: Visitors to the website can sign up as a mentor or a user seeking mentorship.
     ![Home page wireframe](readme_images/sign-up.png)
 -   Log-in page: Visitors to the website can log in if they have signed up already.
