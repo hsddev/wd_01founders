@@ -1,10 +1,10 @@
-# Initial MVP idea:
+# Initial idea:
 
 This website represents a solution to a very common issue in the world, women's lack of representation. Its goal is to represent important women in tech, past and present, and to enable communication between them and women in tech so that the gap can be bridged.
 
 This is done by creating a portal-type site where members can see the mentors, their achievements and where they work. Through this the user can log in as a mentor or user, and users can book an appointment and send a message to the mentor.
 
-The link for the deployed site can be found here: https://femtoring.herokuapp.com
+Link to an example type of women in tech website: https://femtoring.herokuapp.com. This is for guidance purposes only please be creative and do not copy the site content.
 
 # Design
 
@@ -19,11 +19,7 @@ Color Scheme:
 
 # Typography:
 
-Lato and Roboto were used from Google Fonts​
-
-# Imagery:
-
-https://pexels.com was used to source copyright free images for the website gallery and tinypng was used to compress file size​.
+Lato and Roboto were used from Google Fonts​ https://fonts.google.com/
 
 # Logo:
 
@@ -50,19 +46,17 @@ https://pexels.com was used to source copyright free images for the website gall
 
  <br />
 
-## Canvas:
-
 # Technology:
 
 ## Tech Stack:
 
-​Technologies Used: HTML, CSS, JavaScript, jQuery, Bootstrap, GitHub, Git, Bash
+​Technologies Used: HTML, CSS, JavaScript, Canvas.
 
 # File structure:
 
 ```
 .
-├── static
+├── assets/
 │   ├── css
 │   │    └── base.css
 │   ├── images
@@ -98,16 +92,14 @@ https://pexels.com was used to source copyright free images for the website gall
 
 PS: Users must be logged in before they can contact the mentor.
 
-# Task Collaboration
+# Group Task
 
-To encourage diverse collaboration and skill-sharing, we've formed mixed-level groups where participants with varying experience levels work together towards a common goal. Here are the roles within each group:
+You are in mixed-level groups with different experiences and expertise to combine your skills to achieve the task:
 
-## Group Alpha: Innovators' Collective
+Roles to consider within the group:
 
-This group combines participants with different skill levels to foster innovation and mentorship. Each member brings unique perspectives and expertise to the table, creating a dynamic environment for collaboration. Roles within the group include:
+-   Those with artistic flair and creativity who can design the initial concept of the website using canvas tools. They will lay the visual foundation for the project.
 
--   **Visionary Designers**: Participants with artistic flair and creativity who will design the initial concept of the website using canvas tools. They will lay the visual foundation for the project.
--   **Technical Builders**: Skilled individuals proficient in HTML, CSS, and basic JavaScript who will implement the designs created by Visionary Designers. They will focus on building static web pages and ensuring cross-device compatibility.
--   **Architects of Functionality**: Experienced developers with full-stack knowledge who will add dynamic features, such as user authentication and backend logic, to make the website interactive and engaging. They will integrate these features seamlessly into the project.
+-   Those proficient in HTML, CSS, and basic JavaScript who will implement the designs created. They will focus on building static web pages and ensuring cross-device compatibility.
 
-Participants within Group Alpha will collaborate closely, leveraging their respective strengths to create a cohesive and impactful website. Together, they will celebrate diversity and empower each other to achieve excellence.
+-   'Experienced' coders with full-stack knowledge who will add dynamic features, such as user authentication and backend logic, to make the website interactive and engaging. They will integrate these features into the project.
