@@ -77,24 +77,31 @@ Lato and Roboto were used from Google Fonts​ https://fonts.google.com/
     ![Home page wireframe](readme_images/home-nav.png)
 
 -   Home page: Here you can find information on the website's goals and purpose, as well as links to the rest of the pages.
+
 -   About page: This contains information on the website and the team behind it. There is also information on the history of women in tech and some examples of modern-day women tech leaders.
     ![Home page wireframe](readme_images/aboutpage.png)
+
 -   Mentors page: This contains the different profiles for the mentors, the user can click on them and go into each one of them.
     ![Home page wireframe](readme_images/mentors.png)
+
 -   Sign-up page: Visitors to the website can sign up as a mentor or a user seeking mentorship.
     ![Home page wireframe](readme_images/sign-up.png)
+
 -   Log-in page: Visitors to the website can log in if they have signed up already.
     ![Home page wireframe](readme_images/login.png)
+
 -   Contact Mentor: Users can choose a mentor and contact them to arrange a meeting.
     ![Home page wireframe](readme_images/user-contact-mentor.png)
+
 -   404 Page: if the user navigates to a page that doesn't exist 404 page comes up and presents a link back to home.
+
     ![Home page wireframe](readme_images/404.png)
 
 PS: Users must be logged in before they can contact the mentor.
 
 # Group Task
 
-You are in mixed-level groups with different experiences and expertise to combine your skills to achieve the task:
+You are in mixed-level groups with different experiences and expertise to combine your skills to achieve the task.
 
 Roles to consider within the group:
 
