@@ -111,4 +111,3 @@ Roles to consider within the group:
 
 -   'Experienced' coders with full-stack knowledge who will add dynamic features, such as user authentication and backend logic, to make the website interactive and engaging. They will integrate these features into the project.
 
-======
