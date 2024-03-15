@@ -110,3 +110,5 @@ Roles to consider within the group:
 -   Those proficient in HTML, CSS, and basic JavaScript who will implement the designs created. They will focus on building static web pages and ensuring cross-device compatibility.
 
 -   'Experienced' coders with full-stack knowledge who will add dynamic features, such as user authentication and backend logic, to make the website interactive and engaging. They will integrate these features into the project.
+
+=====
